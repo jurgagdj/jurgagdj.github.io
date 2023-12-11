@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mano Puslapis</title>
+    
+    
+    
+    <link>https://jurgagdr.github.io/posts/</link>
+    <description>Recent content in Posts on Mano Puslapis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Dec 2023 19:40:26 +0200</lastBuildDate>
+    
+	<atom:link href="https://jurgagdr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Naujas Jurgio Žutauto Puslapis</title>
+      <link>https://jurgagdr.github.io/posts/naujaspuslapis/</link>
+      <pubDate>Mon, 11 Dec 2023 19:40:26 +0200</pubDate>
+      
+      <guid>https://jurgagdr.github.io/posts/naujaspuslapis/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Vienas iš sakynių po meta duomenimis mano grupė PRif-20/2
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
